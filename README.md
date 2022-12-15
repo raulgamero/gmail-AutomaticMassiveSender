@@ -14,7 +14,7 @@ Envía el mismo correo de manera automática a gran cantidad de destinatarios
     - El archivo csv tiene que estar en el mismo directorio/misma carpeta que los demás archivos.
 
 3. Ejecutar el archivo python empresas_to_txt.py desde la terminal con el siguiente comando:
-    python3 empresas_to_txt.py
+    `python3 empresas_to_txt.py`
     
 4. Ejecutar el archivo gmail_massive_email_sender.py desde la terminal con el siguiente comando:
-    python3 gmail_massive_email_sender.py
+    `python3 gmail_massive_email_sender.py`
