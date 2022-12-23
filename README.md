@@ -1,4 +1,4 @@
-# gmail-AutomaticMassiveSender
+# Gmail automatic massive sender
 Envía el mismo correo de manera automática a gran cantidad de destinatarios
 
 1. Abrir archivo config, y cambiar las variables:
